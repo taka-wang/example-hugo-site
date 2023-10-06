@@ -1,8 +1,10 @@
 # Hugo Github Pages Deployment Guide
 
+[中文](README_zh-TW.md) / English
+
 Welcome to the world of Hugo, where you can swiftly create your personal website! This guide will walk you through the process of creating a private website on GitHub and deploying it to GitHub Pages.
 
-## Included Contents
+## What's included in this guide
 
 - `.gitignore`: Excludes files from version control.
 - `.github/workflows/hugo.yml`: Uses GitHub Actions to deploy your private Hugo repository to a public GitHub Pages repository.
