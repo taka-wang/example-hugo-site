@@ -1,8 +1,10 @@
 # Hugo GitHub Pages 部署指南
 
+中文 / [English](README.md)
+
 歡迎使用 Hugo 快速建立個人網站！這個指南將引導你完成在 GitHub 上建立私人網站並部署到 GitHub Pages 的過程。
 
-## 包含的內容
+## 這個指南包括什麼重點
 
 - `.gitignore`: 排除版本管理的檔案
 - `.github/workflows/hugo.yml`: 使用 GitHub Action 將私人 Hugo 存放庫部署到公開的 GitHub Pages 存放庫。
