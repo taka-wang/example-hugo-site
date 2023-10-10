@@ -28,7 +28,7 @@
 4. 在 `hugo-site` 的同一層目錄創建 Hugo 專案（不要放在 `hugo-site` 裡面）：
 
    ```sh
-   hugo new site hugo-site --force
+   hugo new site hugo-site --force --format yaml
    ```
 
 5. 新增範例主題，這邊以 PaperMod 為例：
